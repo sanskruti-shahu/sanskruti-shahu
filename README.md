@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sanskruti Shahu</h1>
 <h3 align="center">Pursing B.Tech in Computer Science from IIIT Lucknow.</h3>
 
-- 🌱 I’m currently learning **Flutter and UI/UX Designing**
+- 🌱 I’m currently learning **React and UI/UX Designing**
 
 - 👨‍💻 All of my projects are available at [my github](https://github.com/sanskruti-shahu)
 
