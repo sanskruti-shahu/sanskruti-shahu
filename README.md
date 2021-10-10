@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [my github](https://github.com/sanskruti-shahu)
 
-- 🏀 Checkout [my dribbble](https://github.com/sanskruti-shahu) for UI/UX design works.
+- 🏀 Checkout [my dribbble](https://dribbble.com/sans2601) for UI/UX design works.
 
 ### Stats
 
